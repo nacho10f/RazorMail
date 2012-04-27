@@ -1,0 +1,13 @@
+[Bb]in
+[Oo]bj
+/TestResults/*
+*.Publish.xml
+*.suo
+*.orig
+_ReSharper.*/
+packages
+Sum.Tests/Test References/Summumnet.accessor
+*.user
+UpgradeLog.XML
+_UpgradeReport_Files/*
+*.tmp
