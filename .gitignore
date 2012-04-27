@@ -6,7 +6,6 @@
 *.orig
 _ReSharper.*/
 packages
-Sum.Tests/Test References/Summumnet.accessor
 *.user
 UpgradeLog.XML
 _UpgradeReport_Files/*
